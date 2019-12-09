@@ -1,0 +1,26 @@
+.container {
+  margin-top: 20px;
+}
+.logo {
+  width: 50%;
+}
+.connect {
+  min-width: 30%;
+}
+.c_item{
+  padding-left: 35px !important;
+}
+.form-container {
+  margin: 0 auto;
+  margin-top: 45px;
+  border: solid 1px #ced4da;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+}
+@media(max-width: 900px) {
+  .logo {
+    width: 90%;
+  }
+}
